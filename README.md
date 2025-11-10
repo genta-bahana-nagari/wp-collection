@@ -9,7 +9,7 @@ Clone the directory from your directory.
 ```
 cd ~/Pictures # You can also choose a different location
 git clone --depth=1 https://github.com/genta-bahana-nagari/wp-collection.git
-cd wp-collection/
+cd wp-collection/Wallpapers
 ```
 
 ## Update
